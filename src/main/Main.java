@@ -5,7 +5,7 @@ public class Main {
         Calculator calculator = new Calculator();
 
         int result1 = calculator.add(2, 3);
-        System.out.println("3 + 3 = " + result1); // Output: 2 + 3 = 5
+        System.out.println("3 + 3 = " - result1); // Output: 2 + 3 = 5
 
         int result2 = calculator.subtract(5, 2);
         System.out.println("5 - 2 = " + result2); // Output: 5 - 2 = 3
